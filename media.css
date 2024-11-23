@@ -1,0 +1,87 @@
+@media screen and (min-width:320px) and (max-width:570px){
+    .WELCOMETO{
+        margin: unset !important;
+    }
+    .WELCOMETO h1{
+        font-size: unset;
+        width: 200px;
+    }
+    .WELCOMETO h5{
+        font-size: 10px;
+    }
+    .WELCOMETO a{
+        font-size: 12px;
+        padding: 5px;
+    } 
+    /* .pizza{
+        display: unset;
+    } */
+
+    .acrsthis {
+        text-align: center;
+    }
+    .acrsthis {
+        text-align: center;
+    }
+    .medis{
+        display: unset;
+    }
+    .RESEASO{
+        display: unset;
+    }
+    .TheAsianClub{
+        display: unset;
+        text-align: center;
+    }
+    .lider{
+        display: unset;
+        text-align: center;
+    }
+}
+
+@media screen and (min-width:720px) and (max-width:1000px){
+    .WELCOMETO{
+        margin: unset !important;
+    }
+    .WELCOMETO h1{
+       
+        font-size: 35px;
+        width: 200px;
+    }
+    .WELCOMETO h5{
+        margin-top: 50px;
+        font-size:15px;
+    }
+    .WELCOMETO a{
+        font-size: 12px;
+        padding: 5px;
+    } 
+    /* .pizza{
+        display: unset;
+    } */
+
+    .acrsthis {
+        text-align: center;
+    }
+    .acrsthis {
+        text-align: center;
+    }
+    .medis{
+        display: unset;
+    }
+    .RESEASO{
+        display: unset;
+    }
+    .TheAsianClub{
+        display: unset;
+        text-align: center;
+    }
+    .lider{
+        display: unset;
+        text-align: center;
+    }
+
+
+
+}
+

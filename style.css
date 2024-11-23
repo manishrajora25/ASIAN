@@ -1,0 +1,346 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.nav-item{
+    padding: 0px 20px;
+}
+.web{
+    padding: 0px 20px 0px 20px;
+    border-radius: 10px;
+    color: white;
+    background-color: darkorange;
+
+} 
+.web i{
+    color: white;
+    padding-right: 6px;
+}
+
+.main{
+    background-image: url("WhatsApp Image 2024-04-24 at 18.17.23_cd85c3ea.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    /* width: 100%; */
+    height: 100vh;
+}
+
+.cast ul a{
+    text-decoration: none;
+    list-style-type: none;
+    font-size: 16px;
+    color: white !important;
+}
+
+.Search input{
+    width: 100%;
+    margin-top: 13px;
+    padding: 6px;
+    border-radius: 7px;
+}
+.reaa{
+    color: red;
+}
+.WELCOMETO h1{
+    font-size: 45px;
+}
+/* .hrmain hr{
+    color: red;
+} */
+.WELCOMETO{
+    margin: 160px 0px 0px 40px !important;
+}
+.WELCOMETO a{
+    background-color: white;
+    padding: 5px 10px;
+    margin-top: 50px;
+    border-radius: 15px;
+    text-decoration: none;
+    color: red;
+}
+.pizza a{
+    display: flex;
+}
+.threeimg{
+    width: 100%;
+    height: 400px;
+    
+}
+.threeimg img{
+    width: 100%;
+    height: 100%;
+    border-radius: 20px;
+    border: 1px solid white;
+}
+.about h4{
+    color: red;
+}
+.about hr{
+    width: 20%;
+    padding: 1px;
+    color: white !important;
+}
+.colofull{
+    background-color: black;
+    color: white;
+    padding: 20px;
+
+}
+.tag{
+    color: red;
+}
+.match{
+    background-image: url("IMG-20241114-WA0007.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    /* width: 100%; */
+    height: 250px;
+}
+.Days{
+    background-color: red;
+    height: 40px;
+}
+.Days p{
+    padding: 10px 150px;
+    color: white;
+}
+
+.logo2{
+    width: 60px;
+    height: 60px;
+}
+.logo2 img{
+    height: 100%;
+    height: 100%;
+}
+.notfor{
+    margin-top: 50px;
+}
+.vs{
+    background-color: red;
+    color: white;
+
+}
+.vsro p{
+    background-color: red;
+    color: white;
+    padding: 0px 5px;
+
+   
+}
+.rightmain{
+    text-align: right;
+}
+.result{
+    margin-top: 5px;
+    background-color: rgb(209, 209, 209);
+    padding: 5px;
+
+}
+.acrsthis{
+    background-color: rgb(235, 235, 235);
+    
+}
+.All{
+    color: red;
+}
+.medis{
+    display: flex;
+}
+
+.medis p{
+margin: 5px 20px;
+}
+.RESEASO{
+    display: flex;
+}
+.ronaldo{
+    /* width: 80%; */
+    height: 250px;
+}
+.ronaldo img{
+    width: 100%;
+    height: 100%;
+}
+.cristono{
+    /* width: 80%; */
+    height: 250px;
+}
+.cristono img{
+    margin-top: 10px;
+    width: 100%;
+    height: 100%;
+}
+.lagbol{
+    /* width: 80%; */
+    height: 510px;
+}
+.lagbol img{
+    width: 100%;
+    height: 100%;
+    
+}
+.raninplay{
+    height: 250px;
+    
+}
+.raninplay img{
+    width: 100%;
+    height: 100%;
+}
+.towplayrs{
+width: 100%;
+height: 250px;
+}
+.towplayrs img{
+    margin-top: 10px;
+    width: 100%;
+    height: 100%;
+}
+
+.twoboll{
+    width: 100%;
+height: 250px;
+}
+.twoboll img{
+    margin-top: 10px;
+    width: 100%;
+    height: 100%;
+}
+.hrnow hr{
+margin-top: 80px;
+padding: 1px;
+}
+.Cristiano{
+    width: 100%;
+height: 350px;
+}
+.Cristiano img{
+    width: 100%;
+    height: 100%;
+    justify-content: space-around;
+   
+}
+
+.RESEASO p{
+margin: 10px 15px;
+font-size: 13px;
+color: white;
+}
+
+.PLAYER h4{
+    margin-top: 3rem;
+    color: white;
+}
+
+.Davidimg{
+    /* height: 550px; */
+    margin-top: 10px;
+    background-image: url("IMG-20241114-WA0022.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 550px;
+    object-fit: cover;
+}
+/* .Davidimg img{
+width: 100%;
+height: 100%;
+} */
+
+.maniwwimg{
+    width: 70%;
+    height: 530px;
+
+}
+.maniwwimg img{
+    width: 100%;
+    height: 100%;
+}
+.lider p{
+    margin: 5px 30px;
+}
+.lider{
+    background-color: red;
+    padding: 5px;
+    color: white;
+
+}
+.TheAsianClub p{
+    margin: 0px 26px;
+}
+.lider{
+    display: flex;
+}
+.TheAsianClub{
+    display: flex;
+}
+.mntucolore{
+    margin-top: 30px;
+    background-color: black;
+    padding: 20px;
+}
+.tshart {
+    height: 280px;
+}
+.tshart img{
+    border: 1px solid black;
+    padding: 5px;
+    width: 100%;
+    height: 100%;
+    justify-content: space-evenly;
+}
+.Checkoutour{
+    padding: 10px;
+    text-align: center;
+
+}
+.Checkoutour h5{
+    color: white ;
+}
+.Profile{
+    color: red;
+}
+.allmostimg{
+    height: 300px;
+}
+.allmostimg img{
+    width: 100%;
+    height: 100%;
+}
+
+.gormullaimg{
+    margin-top: 50px;
+    background-image: url("IMG-20241114-WA0020.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    object-fit: cover;
+    margin: auto;
+}
+.darknescolor{
+    height: 100vh;
+    background-color: rgb(163, 163, 163);
+}
+.gormullaimg h2{
+    padding-top: 200px;
+}
+.logosmee{
+    width: 80px;
+    height: 80px;
+}
+.logosmee img{
+    width: 100%;
+    height: 100%;
+}
+.manisnlogosmevry{
+    background-color: black;
+    padding: 20px;
+}
+.rophyRoom{
+    margin-top: 30px;
+}
